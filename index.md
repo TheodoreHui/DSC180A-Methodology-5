@@ -1,4 +1,5 @@
-# Capstone Example Jekyll Website
+# Methodology Assignment 5, Task 2
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
+Theodore Hui, tchui@ucsd.edu
+DSC180B14, Jingbo Shang
 
